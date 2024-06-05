@@ -1,0 +1,22 @@
+JULY 5th 2024 |
+______________|
+
+Since starting at Atlas School, my understanding of software development 
+concepts has evolved significantly. Over time, I have learned and become 
+proficient in several programming languages and technologies.
+
+I have developed an efficient studying method. Typically, I start by diving 
+into videos to get a basic understanding. Following this, I engage in hands-on practice, 
+fully expecting to fail a few times when dealing with new content. This trial-and-error 
+approach has taught me resilience and has reinforced my learning through practical application.
+
+Among the various projects and assignments I have worked on, recreating the Airbnb app stands 
+out as particularly challenging and rewarding. This project required the integration of multiple 
+languages and technologies I had learned. Working on this project involved both solo and team efforts, 
+with teams of two partners changing each time. These experiences enhanced my technical and soft skills.
+
+Currently, I would classify myself as around the level of an intermediate software developer. I 
+am proficient in a collection of languages and technologies. My experience in creating complex 
+applications, like the Airbnb app, has given me a solid understanding of both front-end and back-end
+development. I feel confident in my ability to tackle new challenges and continue growing as a developer.
+
