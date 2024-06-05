@@ -1,14 +1,3 @@
-
-Curriculum
-[C#22] 2024SU-TUL-PR-T3
-Average: 93.69%
-Project badge
-Reflection
- Novice
- By: Clint Miller
- Weight: 1
- Migrated to checker v2: 
- Manual QA review must be done (request it when you are done with the project)
 Purpose
 The purpose of this assignment is for students to reflect on their personal growth and development since they started their journey at Atlas School. By examining their previous self, current self, and future self, students will gain a deeper understanding of their knowledge, thought processes, and perseverance throughout their curriculum. This reflection exercise will help students appreciate their progress and set goals for their future in software development.
 
