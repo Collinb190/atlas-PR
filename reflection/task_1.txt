@@ -19,4 +19,3 @@ Currently, I would classify myself as around the level of an intermediate softwa
 am proficient in a collection of languages and technologies. My experience in creating complex 
 applications, like the Airbnb app, has given me a solid understanding of both front-end and back-end
 development. I feel confident in my ability to tackle new challenges and continue growing as a developer.
-
