@@ -1,10 +1,13 @@
 Purpose
+
 The purpose of this assignment is for students to reflect on their personal growth and development since they started their journey at Atlas School. By examining their previous self, current self, and future self, students will gain a deeper understanding of their knowledge, thought processes, and perseverance throughout their curriculum. This reflection exercise will help students appreciate their progress and set goals for their future in software development.
 
 Description
+
 This assignment requires students to reflect on three aspects of their journey at Atlas School: their previous self, current self, and future self. They should consider their knowledge, thought processes, and overall growth during their time at the school. Students are encouraged to be honest and insightful in their reflections.
 
 Format
+
 Introduction: Provide a brief introduction to the assignment and its purpose.
 
 Previous Self:
